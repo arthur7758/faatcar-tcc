@@ -17,6 +17,10 @@ namespace faatcar_tcc.Controllers
         {
             return View();
         }
+        public IActionResult Cadastro()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
